@@ -1,0 +1,17 @@
+.container{
+    /* display: flex; */
+    /* align-items: center; */
+    border-bottom: 2px solid;
+    padding-bottom: 12px;
+    }
+.card{
+    box-shadow: 0 0 12px rgb(192, 189, 189);
+    text-align: center;
+    padding: 12px;
+    border-radius: 12px;
+    max-width: 200px;
+    display: inline-block;
+}
+.card h4{
+    margin: 0;
+}
